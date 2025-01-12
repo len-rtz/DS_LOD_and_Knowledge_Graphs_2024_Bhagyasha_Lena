@@ -1,0 +1,1054 @@
+{
+    "records": {
+        "lido:lido": [
+            {
+                "@xmlns:lido": "http://www.lido-schema.org",
+                "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                "lido:lidoRecID": {
+                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                    "#text": "NL-AsdRM/lido/678849"
+                },
+                "lido:objectPublishedID": {
+                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                    "#text": "http://hdl.handle.net/10934/RM0001.COLLECT.678849"
+                },
+                "lido:descriptiveMetadata": {
+                    "@xml:lang": "en",
+                    "lido:objectClassificationWrap": {
+                        "lido:objectWorkTypeWrap": {
+                            "lido:objectWorkType": {
+                                "lido:conceptID": {
+                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                    "#text": "RM0001.THESAU.556654"
+                                },
+                                "lido:term": [
+                                    {
+                                        "@xml:lang": "en",
+                                        "#text": "photomechanical print"
+                                    },
+                                    {
+                                        "@xml:lang": "nl",
+                                        "#text": "fotomechanische afdruk"
+                                    }
+                                ]
+                            }
+                        },
+                        "lido:classificationWrap": {
+                            "lido:classification": [
+                                {
+                                    "@lido:type": "http://vocab.getty.edu/aat/300025976",
+                                    "lido:term": [
+                                        {
+                                            "@xml:lang": "en"
+                                        },
+                                        {
+                                            "@xml:lang": "nl",
+                                            "#text": "foto's"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@lido:type": "http://vocab.getty.edu/aat/300025976",
+                                    "lido:term": [
+                                        {
+                                            "@xml:lang": "en"
+                                        },
+                                        {
+                                            "@xml:lang": "nl",
+                                            "#text": "fotografisch ge\u00efllustreerde boeken"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "lido:objectIdentificationWrap": {
+                        "lido:titleWrap": {
+                            "lido:titleSet": [
+                                {
+                                    "lido:appellationValue": [
+                                        {
+                                            "@xml:lang": "en",
+                                            "#text": "Prescott H. Butler"
+                                        },
+                                        {
+                                            "@xml:lang": "nl",
+                                            "#text": "Portret van Prescott H. Butler"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@lido:type": "http://vocab.getty.edu/aat/300417202",
+                                    "lido:appellationValue": {
+                                        "@xml:lang": "nl",
+                                        "#text": "Prescott H. Butler"
+                                    }
+                                }
+                            ]
+                        },
+                        "lido:repositoryWrap": {
+                            "lido:repositorySet": {
+                                "lido:repositoryName": {
+                                    "lido:legalBodyID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                        "@lido:source": "ISIL (ISO 15511)",
+                                        "#text": "NL-AsdRM"
+                                    },
+                                    "lido:legalBodyName": {
+                                        "lido:appellationValue": "Rijksmuseum"
+                                    },
+                                    "lido:legalBodyWeblink": "https://www.rijksmuseum.nl/"
+                                },
+                                "lido:workID": {
+                                    "@lido:type": "inventory number",
+                                    "#text": "2RP-F-2001-7-1020-41"
+                                },
+                                "lido:repositoryLocation": {
+                                    "lido:placeID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                        "@lido:source": "http://sws.geonames.org/",
+                                        "#text": "http://sws.geonames.org/6884785"
+                                    },
+                                    "lido:namePlaceSet": {
+                                        "lido:appellationValue": "Rijksmuseum Amsterdam"
+                                    }
+                                }
+                            }
+                        },
+                        "lido:objectMeasurementsWrap": {
+                            "lido:objectMeasurementsSet": {
+                                "lido:objectMeasurements": {
+                                    "lido:measurementsSet": [
+                                        {
+                                            "lido:measurementType": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "height"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "hoogte"
+                                                }
+                                            ],
+                                            "lido:measurementUnit": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "mm"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "mm"
+                                                }
+                                            ],
+                                            "lido:measurementValue": "100"
+                                        },
+                                        {
+                                            "lido:measurementType": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "width"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "breedte"
+                                                }
+                                            ],
+                                            "lido:measurementUnit": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "mm"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "mm"
+                                                }
+                                            ],
+                                            "lido:measurementValue": "78"
+                                        }
+                                    ],
+                                    "lido:extentMeasurements": [
+                                        {
+                                            "@xml:lang": "en"
+                                        },
+                                        {
+                                            "@xml:lang": "nl",
+                                            "#text": "prent"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "lido:eventWrap": {
+                        "lido:eventSet": [
+                            {
+                                "lido:event": {
+                                    "lido:eventType": {
+                                        "lido:conceptID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                            "@lido:source": "http://terminology.lido-schema.org/eventType",
+                                            "#text": "http://terminology.lido-schema.org/eventType/expression_creation"
+                                        },
+                                        "lido:term": {
+                                            "@xml:lang": "en",
+                                            "#text": "Expression creation"
+                                        }
+                                    },
+                                    "lido:eventActor": {
+                                        "lido:actorInRole": {
+                                            "lido:actor": {
+                                                "@lido:type": "http://terminology.lido-schema.org/actor_type/person",
+                                                "lido:actorID": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                                    "#text": "RM0001.PEOPLE.54"
+                                                },
+                                                "lido:nameActorSet": {
+                                                    "lido:appellationValue": [
+                                                        {
+                                                            "@xml:lang": "en",
+                                                            "#text": "anonymous"
+                                                        },
+                                                        {
+                                                            "@xml:lang": "nl",
+                                                            "#text": "anoniem"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "lido:roleActor": {
+                                                "lido:term": [
+                                                    {
+                                                        "@xml:lang": "en"
+                                                    },
+                                                    {
+                                                        "@xml:lang": "nl",
+                                                        "#text": "fotograaf"
+                                                    }
+                                                ]
+                                            },
+                                            "lido:attributionQualifierActor": [
+                                                {
+                                                    "@xml:lang": "en"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "lido:eventDate": {
+                                        "lido:date": {
+                                            "lido:earliestDate": "1869",
+                                            "lido:latestDate": "1869"
+                                        }
+                                    },
+                                    "lido:eventMaterialsTech": [
+                                        {
+                                            "lido:materialsTech": {
+                                                "lido:termMaterialsTech": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/termMaterialsTech_type/material",
+                                                    "lido:conceptID": {
+                                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                                        "@lido:source": "http://vocab.getty.edu/aat",
+                                                        "#text": "http://vocab.getty.edu/aat/300014109"
+                                                    },
+                                                    "lido:term": [
+                                                        {
+                                                            "@xml:lang": "en",
+                                                            "#text": "paper"
+                                                        },
+                                                        {
+                                                            "@xml:lang": "nl",
+                                                            "#text": "papier"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "lido:materialsTech": {
+                                                "lido:termMaterialsTech": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/termMaterialsTech_type/technique",
+                                                    "lido:conceptID": {
+                                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                                        "#text": "RM0001.THESAU.14896"
+                                                    },
+                                                    "lido:term": [
+                                                        {
+                                                            "@xml:lang": "en"
+                                                        },
+                                                        {
+                                                            "@xml:lang": "nl",
+                                                            "#text": "heliogravure"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "lido:event": {
+                                    "lido:eventType": {
+                                        "lido:conceptID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                            "@lido:source": "http://terminology.lido-schema.org/eventType",
+                                            "#text": "http://terminology.lido-schema.org/eventType/expression_creation"
+                                        },
+                                        "lido:term": {
+                                            "@xml:lang": "en",
+                                            "#text": "Expression creation"
+                                        }
+                                    },
+                                    "lido:eventActor": {
+                                        "lido:actorInRole": {
+                                            "lido:actor": {
+                                                "@lido:type": "http://terminology.lido-schema.org/actor_type/person",
+                                                "lido:actorID": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                                    "#text": "RM0001.PEOPLE.137950"
+                                                },
+                                                "lido:nameActorSet": {
+                                                    "lido:appellationValue": [
+                                                        {
+                                                            "@xml:lang": "en",
+                                                            "#text": "Heliotype Printing Company"
+                                                        },
+                                                        {
+                                                            "@xml:lang": "nl",
+                                                            "#text": "Heliotype Printing Company"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "lido:roleActor": {
+                                                "lido:term": [
+                                                    {
+                                                        "@xml:lang": "en"
+                                                    },
+                                                    {
+                                                        "@xml:lang": "nl",
+                                                        "#text": "clich\u00e9maker"
+                                                    }
+                                                ]
+                                            },
+                                            "lido:attributionQualifierActor": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "mentioned on object"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "vermeld op object"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "lido:eventPlace": {
+                                        "lido:place": {
+                                            "lido:namePlaceSet": {
+                                                "lido:appellationValue": [
+                                                    {
+                                                        "@xml:lang": "en"
+                                                    },
+                                                    {
+                                                        "@xml:lang": "nl",
+                                                        "#text": "Boston"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "lido:event": {
+                                    "lido:eventType": {
+                                        "lido:conceptID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                            "@lido:source": "http://terminology.lido-schema.org/eventType",
+                                            "#text": "http://terminology.lido-schema.org/eventType/acquisition"
+                                        },
+                                        "lido:term": [
+                                            {
+                                                "@xml:lang": "en",
+                                                "#text": "Acquisition"
+                                            },
+                                            {
+                                                "@xml:lang": "nl",
+                                                "#text": "Acquisitie"
+                                            }
+                                        ]
+                                    },
+                                    "lido:eventDate": {
+                                        "lido:date": {
+                                            "lido:earliestDate": "2001",
+                                            "lido:latestDate": "2001"
+                                        }
+                                    },
+                                    "lido:eventMethod": {
+                                        "lido:term": [
+                                            {
+                                                "@xml:lang": "en"
+                                            },
+                                            {
+                                                "@xml:lang": "nl"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "lido:objectRelationWrap": {
+                        "lido:subjectWrap": {
+                            "lido:subjectSet": {
+                                "lido:subject": {
+                                    "lido:subjectConcept": {
+                                        "lido:conceptID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                            "@lido:source": "http://iconclass.org",
+                                            "#text": "http://iconclass.org/31D14"
+                                        },
+                                        "lido:term": [
+                                            {
+                                                "@lido:pref": "alternative",
+                                                "#text": "31D14"
+                                            },
+                                            {
+                                                "@xml:lang": "en",
+                                                "#text": "adult man"
+                                            },
+                                            {
+                                                "@xml:lang": "nl",
+                                                "#text": "adult man"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lido:administrativeMetadata": {
+                    "@xml:lang": "en",
+                    "lido:rightsWorkWrap": {
+                        "lido:rightsWorkSet": {
+                            "lido:rightsType": {
+                                "lido:conceptID": {
+                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                    "@lido:source": "http://creativecommons.org",
+                                    "#text": "https://creativecommons.org/publicdomain/mark/1.0/"
+                                },
+                                "lido:term": "Public Domain Mark 1.0"
+                            },
+                            "lido:creditLine": [
+                                {
+                                    "@xml:lang": "en",
+                                    "#text": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+                                },
+                                {
+                                    "@xml:lang": "nl",
+                                    "#text": "Aankoop met steun van de Mondriaan Stichting, het Prins Bernhard Cultuurfonds, het VSBfonds, het Paul Huf Fonds/Rijksmuseum Fonds en het Egbert Kunstfonds"
+                                }
+                            ]
+                        }
+                    },
+                    "lido:recordWrap": {
+                        "lido:recordID": {
+                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                            "#text": "678849"
+                        },
+                        "lido:recordType": {
+                            "lido:conceptID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                "@lido:source": "http://terminology.lido-schema.org/recordType",
+                                "#text": "http://terminology.lido-schema.org/recordType/item-level_record"
+                            },
+                            "lido:term": "Item-level record"
+                        },
+                        "lido:recordSource": {
+                            "lido:legalBodyID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                "@lido:source": "ISIL (ISO 15511)",
+                                "#text": "NL-AsdRM"
+                            },
+                            "lido:legalBodyName": {
+                                "lido:appellationValue": "Rijksmuseum"
+                            },
+                            "lido:legalBodyWeblink": "https://www.rijksmuseum.nl/"
+                        },
+                        "lido:recordRights": {
+                            "lido:rightsType": {
+                                "lido:conceptID": {
+                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                    "@lido:source": "http://creativecommons.org",
+                                    "#text": "https://creativecommons.org/publicdomain/zero/1.0/"
+                                },
+                                "lido:term": "CC0 1.0 Universal (CC0 1.0)"
+                            },
+                            "lido:rightsHolder": {
+                                "lido:legalBodyID": {
+                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                    "@lido:source": "ISIL (ISO 15511)",
+                                    "#text": "NL-AsdRM"
+                                },
+                                "lido:legalBodyName": {
+                                    "lido:appellationValue": "Rijksmuseum"
+                                },
+                                "lido:legalBodyWeblink": "https://www.rijksmuseum.nl/"
+                            },
+                            "lido:creditLine": "Rijksmuseum"
+                        },
+                        "lido:recordInfoSet": {
+                            "lido:recordInfoID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                "#text": "oai:rijksmuseum.nl:2RP-F-2001-7-1020-41"
+                            },
+                            "lido:recordInfoLink": {
+                                "@lido:formatResource": "html",
+                                "#text": "http://hdl.handle.net/10934/RM0001.COLLECT.678849"
+                            },
+                            "lido:recordMetadataDate": "2017-09-28T11:23:11"
+                        }
+                    },
+                    "lido:resourceWrap": {
+                        "lido:resourceSet": {
+                            "lido:resourceID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                "#text": "{1B532A43-04DC-4A29-9E0B-9A4478C03CE4}"
+                            },
+                            "lido:resourceRepresentation": {
+                                "@lido:type": "http://terminology.lido-schema.org/resourceRepresentation_type/provided_image",
+                                "lido:linkResource": null
+                            },
+                            "lido:resourceDescription": {
+                                "@lido:type": "download"
+                            },
+                            "lido:rightsResource": {
+                                "lido:rightsType": {
+                                    "lido:conceptID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                        "@lido:source": "http://creativecommons.org",
+                                        "#text": "https://creativecommons.org/publicdomain/mark/1.0/"
+                                    },
+                                    "lido:term": "Public Domain Mark 1.0"
+                                },
+                                "lido:creditLine": "Rijksmuseum"
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "@xmlns:lido": "http://www.lido-schema.org",
+                "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+                "lido:lidoRecID": {
+                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                    "#text": "NL-AsdRM/lido/617758"
+                },
+                "lido:objectPublishedID": {
+                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                    "#text": "http://hdl.handle.net/10934/RM0001.COLLECT.617758"
+                },
+                "lido:descriptiveMetadata": {
+                    "@xml:lang": "en",
+                    "lido:objectClassificationWrap": {
+                        "lido:objectWorkTypeWrap": {
+                            "lido:objectWorkType": [
+                                {
+                                    "lido:conceptID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                        "#text": "RM0001.THESAU.556654"
+                                    },
+                                    "lido:term": [
+                                        {
+                                            "@xml:lang": "en",
+                                            "#text": "photomechanical print"
+                                        },
+                                        {
+                                            "@xml:lang": "nl",
+                                            "#text": "fotomechanische afdruk"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "lido:conceptID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                        "#text": "http://vocab.getty.edu/page/aat/300194222"
+                                    },
+                                    "lido:term": {
+                                        "@xml:lang": "nl",
+                                        "#text": "bladzijde"
+                                    }
+                                }
+                            ]
+                        },
+                        "lido:classificationWrap": {
+                            "lido:classification": [
+                                {
+                                    "@lido:type": "http://vocab.getty.edu/aat/300025976",
+                                    "lido:term": {
+                                        "@xml:lang": "nl",
+                                        "#text": "foto's"
+                                    }
+                                },
+                                {
+                                    "@lido:type": "http://vocab.getty.edu/aat/300025976",
+                                    "lido:term": {
+                                        "@xml:lang": "nl",
+                                        "#text": "fotografisch ge\u00efllustreerde boeken"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "lido:objectIdentificationWrap": {
+                        "lido:titleWrap": {
+                            "lido:titleSet": [
+                                {
+                                    "lido:appellationValue": [
+                                        {
+                                            "@xml:lang": "en",
+                                            "#text": "Rt. Hon. W. E. Gladstone"
+                                        },
+                                        {
+                                            "@xml:lang": "nl",
+                                            "#text": "Portret van William Ewart Gladstone"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@lido:type": "http://vocab.getty.edu/aat/300417202",
+                                    "lido:appellationValue": {
+                                        "@xml:lang": "nl",
+                                        "#text": "Rt. Hon. W. E. Gladstone"
+                                    }
+                                }
+                            ]
+                        },
+                        "lido:repositoryWrap": {
+                            "lido:repositorySet": {
+                                "lido:repositoryName": {
+                                    "lido:legalBodyID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                        "@lido:source": "ISIL (ISO 15511)",
+                                        "#text": "NL-AsdRM"
+                                    },
+                                    "lido:legalBodyName": {
+                                        "lido:appellationValue": "Rijksmuseum"
+                                    },
+                                    "lido:legalBodyWeblink": "https://www.rijksmuseum.nl/"
+                                },
+                                "lido:workID": {
+                                    "@lido:type": "inventory number",
+                                    "#text": "RP-F-2001-7-10-1"
+                                },
+                                "lido:repositoryLocation": {
+                                    "lido:placeID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                        "@lido:source": "http://sws.geonames.org/",
+                                        "#text": "http://sws.geonames.org/6884785"
+                                    },
+                                    "lido:namePlaceSet": {
+                                        "lido:appellationValue": "Rijksmuseum Amsterdam"
+                                    }
+                                }
+                            }
+                        },
+                        "lido:objectMeasurementsWrap": {
+                            "lido:objectMeasurementsSet": {
+                                "lido:objectMeasurements": {
+                                    "lido:measurementsSet": [
+                                        {
+                                            "lido:measurementType": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "height"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "hoogte"
+                                                }
+                                            ],
+                                            "lido:measurementUnit": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "mm"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "mm"
+                                                }
+                                            ],
+                                            "lido:measurementValue": "117"
+                                        },
+                                        {
+                                            "lido:measurementType": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "width"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "breedte"
+                                                }
+                                            ],
+                                            "lido:measurementUnit": [
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "mm"
+                                                },
+                                                {
+                                                    "@xml:lang": "nl",
+                                                    "#text": "mm"
+                                                }
+                                            ],
+                                            "lido:measurementValue": "90"
+                                        }
+                                    ],
+                                    "lido:extentMeasurements": {
+                                        "@xml:lang": "nl",
+                                        "#text": "prent"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "lido:eventWrap": {
+                        "lido:eventSet": [
+                            {
+                                "lido:event": {
+                                    "lido:eventType": {
+                                        "lido:conceptID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                            "@lido:source": "http://terminology.lido-schema.org/eventType",
+                                            "#text": "http://terminology.lido-schema.org/eventType/expression_creation"
+                                        },
+                                        "lido:term": {
+                                            "@xml:lang": "en",
+                                            "#text": "Expression creation"
+                                        }
+                                    },
+                                    "lido:eventActor": {
+                                        "lido:actorInRole": {
+                                            "lido:actor": {
+                                                "@lido:type": "http://terminology.lido-schema.org/actor_type/person",
+                                                "lido:actorID": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                                    "#text": "RM0001.PEOPLE.54"
+                                                },
+                                                "lido:nameActorSet": {
+                                                    "lido:appellationValue": [
+                                                        {
+                                                            "@xml:lang": "en",
+                                                            "#text": "anonymous"
+                                                        },
+                                                        {
+                                                            "@xml:lang": "nl",
+                                                            "#text": "anoniem"
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            "lido:roleActor": {
+                                                "lido:conceptID": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                                    "#text": "RM0001.THESAU.55993"
+                                                },
+                                                "lido:term": [
+                                                    {
+                                                        "@xml:lang": "en",
+                                                        "#text": "maker"
+                                                    },
+                                                    {
+                                                        "@xml:lang": "nl",
+                                                        "#text": "vervaardiger"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "lido:eventDate": {
+                                        "lido:date": {
+                                            "lido:earliestDate": "1876",
+                                            "lido:latestDate": "1886"
+                                        }
+                                    },
+                                    "lido:eventMaterialsTech": [
+                                        {
+                                            "lido:materialsTech": {
+                                                "lido:termMaterialsTech": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/termMaterialsTech_type/material",
+                                                    "lido:conceptID": {
+                                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                                        "@lido:source": "http://vocab.getty.edu/aat",
+                                                        "#text": "http://vocab.getty.edu/aat/300014109"
+                                                    },
+                                                    "lido:term": [
+                                                        {
+                                                            "@xml:lang": "en",
+                                                            "#text": "paper"
+                                                        },
+                                                        {
+                                                            "@xml:lang": "nl",
+                                                            "#text": "papier"
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "lido:materialsTech": {
+                                                "lido:termMaterialsTech": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/termMaterialsTech_type/technique",
+                                                    "lido:conceptID": {
+                                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                                        "@lido:source": "http://vocab.getty.edu/aat",
+                                                        "#text": "http://vocab.getty.edu/aat/300053509"
+                                                    },
+                                                    "lido:term": {
+                                                        "@xml:lang": "nl",
+                                                        "#text": "Woodburytypie"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "lido:event": {
+                                    "lido:eventType": {
+                                        "lido:conceptID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                            "@lido:source": "http://terminology.lido-schema.org/eventType",
+                                            "#text": "http://terminology.lido-schema.org/eventType/acquisition"
+                                        },
+                                        "lido:term": [
+                                            {
+                                                "@xml:lang": "en",
+                                                "#text": "Acquisition"
+                                            },
+                                            {
+                                                "@xml:lang": "nl",
+                                                "#text": "Acquisitie"
+                                            }
+                                        ]
+                                    },
+                                    "lido:eventDate": {
+                                        "lido:date": {
+                                            "lido:earliestDate": "2001",
+                                            "lido:latestDate": "2001"
+                                        }
+                                    },
+                                    "lido:eventMethod": {
+                                        "lido:conceptID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                            "#text": "RM0001.THESAU.95"
+                                        },
+                                        "lido:term": [
+                                            {
+                                                "@xml:lang": "en",
+                                                "#text": "purchase"
+                                            },
+                                            {
+                                                "@xml:lang": "nl",
+                                                "#text": "aankoop"
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "lido:objectRelationWrap": {
+                        "lido:subjectWrap": {
+                            "lido:subjectSet": [
+                                {
+                                    "lido:subject": {
+                                        "lido:subjectConcept": {
+                                            "lido:conceptID": {
+                                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                                "@lido:source": "http://iconclass.org",
+                                                "#text": "http://iconclass.org/44C34"
+                                            },
+                                            "lido:term": [
+                                                {
+                                                    "@lido:pref": "alternative",
+                                                    "#text": "44C34"
+                                                },
+                                                {
+                                                    "@xml:lang": "en",
+                                                    "#text": "politician, e.g. party leader"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "lido:subject": {
+                                        "lido:subjectActor": {
+                                            "lido:actor": {
+                                                "@lido:type": "http://terminology.lido-schema.org/actor_type/person",
+                                                "lido:actorID": {
+                                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                                    "#text": "RM0001.PEOPLE.103470"
+                                                },
+                                                "lido:nameActorSet": {
+                                                    "lido:appellationValue": {
+                                                        "@xml:lang": "nl",
+                                                        "#text": "Gladstone, William Ewart"
+                                                    }
+                                                },
+                                                "lido:nationalityActor": {
+                                                    "lido:term": {
+                                                        "@xml:lang": "nl",
+                                                        "#text": "Engels"
+                                                    }
+                                                },
+                                                "lido:vitalDatesActor": {
+                                                    "lido:earliestDate": "1809-12-29",
+                                                    "lido:latestDate": "1898-05-19"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "lido:relatedWorksWrap": {
+                            "lido:relatedWorkSet": {
+                                "lido:relatedWork": {
+                                    "lido:object": {
+                                        "lido:objectID": {
+                                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                            "#text": "http://hdl.handle.net/10934/RM0001.COLLECT.617755"
+                                        },
+                                        "lido:objectNote": "Prose masterpieces from modern essayists"
+                                    }
+                                },
+                                "lido:relatedWorkRelType": {
+                                    "lido:conceptID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                        "#text": "P46i_forms_part_of"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "lido:administrativeMetadata": {
+                    "@xml:lang": "en",
+                    "lido:rightsWorkWrap": {
+                        "lido:rightsWorkSet": {
+                            "lido:rightsType": {
+                                "lido:conceptID": {
+                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                    "@lido:source": "http://creativecommons.org",
+                                    "#text": "https://creativecommons.org/publicdomain/mark/1.0/"
+                                },
+                                "lido:term": "Public Domain Mark 1.0"
+                            },
+                            "lido:creditLine": [
+                                {
+                                    "@xml:lang": "en",
+                                    "#text": "Purchased with the support of the Mondriaan Stichting, the Prins Bernhard Cultuurfonds, the VSBfonds, the Paul Huf Fonds/Rijksmuseum Fonds and the Egbert Kunstfonds"
+                                },
+                                {
+                                    "@xml:lang": "nl",
+                                    "#text": "Aankoop met steun van de Mondriaan Stichting, het Prins Bernhard Cultuurfonds, het VSBfonds, het Paul Huf Fonds/Rijksmuseum Fonds en het Egbert Kunstfonds"
+                                }
+                            ]
+                        }
+                    },
+                    "lido:recordWrap": {
+                        "lido:recordID": {
+                            "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                            "#text": "617758"
+                        },
+                        "lido:recordType": {
+                            "lido:conceptID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                "@lido:source": "http://terminology.lido-schema.org/recordType",
+                                "#text": "http://terminology.lido-schema.org/recordType/item-level_record"
+                            },
+                            "lido:term": "Item-level record"
+                        },
+                        "lido:recordSource": {
+                            "lido:legalBodyID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                "@lido:source": "ISIL (ISO 15511)",
+                                "#text": "NL-AsdRM"
+                            },
+                            "lido:legalBodyName": {
+                                "lido:appellationValue": "Rijksmuseum"
+                            },
+                            "lido:legalBodyWeblink": "https://www.rijksmuseum.nl/"
+                        },
+                        "lido:recordRights": {
+                            "lido:rightsType": {
+                                "lido:conceptID": {
+                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                    "@lido:source": "http://creativecommons.org",
+                                    "#text": "https://creativecommons.org/publicdomain/zero/1.0/"
+                                },
+                                "lido:term": "CC0 1.0 Universal (CC0 1.0)"
+                            },
+                            "lido:rightsHolder": {
+                                "lido:legalBodyID": {
+                                    "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                    "@lido:source": "ISIL (ISO 15511)",
+                                    "#text": "NL-AsdRM"
+                                },
+                                "lido:legalBodyName": {
+                                    "lido:appellationValue": "Rijksmuseum"
+                                },
+                                "lido:legalBodyWeblink": "https://www.rijksmuseum.nl/"
+                            },
+                            "lido:creditLine": "Rijksmuseum"
+                        },
+                        "lido:recordInfoSet": {
+                            "lido:recordInfoID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                "#text": "oai:rijksmuseum.nl:RP-F-2001-7-10-1"
+                            },
+                            "lido:recordInfoLink": {
+                                "@lido:formatResource": "html",
+                                "#text": "http://hdl.handle.net/10934/RM0001.COLLECT.617758"
+                            },
+                            "lido:recordMetadataDate": "2019-05-09T12:06:57"
+                        }
+                    },
+                    "lido:resourceWrap": {
+                        "lido:resourceSet": {
+                            "lido:resourceID": {
+                                "@lido:type": "http://terminology.lido-schema.org/identifier_type/local_identifier",
+                                "#text": "{1F6F0FF1-EC2A-404F-B70C-7AA1E613465F}"
+                            },
+                            "lido:resourceRepresentation": {
+                                "@lido:type": "http://terminology.lido-schema.org/resourceRepresentation_type/provided_image",
+                                "lido:linkResource": "https://lh3.googleusercontent.com/_4dWfEG0nkNRyahKTvcGdef1pWB-VbCNjSSYpIqKwY4mC7YxZeUS4PmDCkw-AY4hThiM5DJlaBr82EIPRxB1uJyP2A=s0"
+                            },
+                            "lido:resourceDescription": {
+                                "@lido:type": "download"
+                            },
+                            "lido:rightsResource": {
+                                "lido:rightsType": {
+                                    "lido:conceptID": {
+                                        "@lido:type": "http://terminology.lido-schema.org/identifier_type/uri",
+                                        "@lido:source": "http://creativecommons.org",
+                                        "#text": "https://creativecommons.org/publicdomain/mark/1.0/"
+                                    },
+                                    "lido:term": "Public Domain Mark 1.0"
+                                },
+                                "lido:creditLine": "Rijksmuseum"
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
