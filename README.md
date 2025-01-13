@@ -17,7 +17,7 @@ The repository also includes tools for parsing LIDO XML data, filtering specific
 
 ## Usage
 
-# XML Processing Overview
+### XML Processing Overview
 To parse LIDO XML files, filter specific records, and convert the extracted data to JSON format, run the script in the following notebook rijksmuseum-xml-to-json.ipynb
 
 It includes functionalities for:
@@ -32,11 +32,11 @@ It includes functionalities for:
 - Simple Record Extraction:
   Extracts simple records with title, creator, and date, saving the results into a JSON file with a specified record limit
 
-# Creating a smaller Subset for Trials
+### Creating a smaller Subset for Trials
 To work with less LIDO classes as well as with less collection records / JSON entities, there is an additional Python Script (subset.py), which extracts simpler records with only title, creator, and date
 It's saving the results into a JSON file with a specified record limit.
 
-# Uploading to Wikibase Instance
+### Uploading to Wikibase Instance
 Make sure to configure your Pywikibot settings to connect to the desired Wikibase instance. You may need to adjust the login credentials in the Pywikibot configuration file (user-config.py).
 
 The user-config.py file should follow this structure:
@@ -67,4 +67,4 @@ Functions:
 - "process_record(record, repo)" Handles a single LIDO record to create or update a corresponding Wikibase item
 - "main()": Initializes the execution of the script
 
-Feel free to modify any section or detail further based on your preferences or specific project requirements!
+### Feel free to modify any section or detail further based on your preferences or specific project requirements!
