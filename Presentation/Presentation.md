@@ -1,6 +1,6 @@
 # Knowledge Graph: Rijksmuseum Data
 ## Lena Pickartz & Bhagyasha Patil
-![IMG 1](Rijksmuseum_Amsterdam.jpg)
+![](Rijksmuseum_Amsterdam.jpg)
 
 
 
