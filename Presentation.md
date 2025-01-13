@@ -1,4 +1,4 @@
-# Project Documentation: Rijksmuseum Photo Print Subset Analysis
+# Project Documentation: Rijksmuseum Photo Print Subset Knowledge Graph
 ## Lena Pickartz & Bhagyasha Patil
 ![IMG 1](Rijksmuseum_Amsterdam.jpg)
 
@@ -36,6 +36,7 @@
   - **Instance Creation**: Deploy on a server or use a cloud solution; configure structure and import data
   - **Properties**: Define attributes and relationships between entities (e.g., "creator," "inception date")
   - **JSON** : Native format for data storage, API interactions, and import/export, ensuring compatibility with Linked Open Data standards
+  - **Query**: 
 
 ## 4. Tools and Technologies
 
