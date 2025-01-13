@@ -60,11 +60,11 @@ XML Parsing:
 The XML processing script streams through the LIDO XML file, extracts records, filters based on object work types, and converts data to JSON format.
 
 Functions:
-"get_nested_value(data, path)": Navigates a nested dictionary to retrieve a value using a specified path
-"format_claim_target(value, datatype, site)": Formats values for claims based on their datatype
-"create_statement(item, pid, value, datatype)": Creates a wikidate statement for an item with a specific wikidate property
-"search_or_create_item(repo, label, description=None)": Looks for an existing item in the wikibase cloud or creates a new one if it doesn’t exist
-"process_record(record, repo)" Handles a single LIDO record to create or update a corresponding Wikibase item
-"main()": Initializes the execution of the script
+- "get_nested_value(data, path)": Navigates a nested dictionary to retrieve a value using a specified path
+- "format_claim_target(value, datatype, site)": Formats values for claims based on their datatype
+- "create_statement(item, pid, value, datatype)": Creates a wikidate statement for an item with a specific wikidate property
+- "search_or_create_item(repo, label, description=None)": Looks for an existing item in the wikibase cloud or creates a new one if it doesn’t exist
+- "process_record(record, repo)" Handles a single LIDO record to create or update a corresponding Wikibase item
+- "main()": Initializes the execution of the script
 
 Feel free to modify any section or detail further based on your preferences or specific project requirements!
