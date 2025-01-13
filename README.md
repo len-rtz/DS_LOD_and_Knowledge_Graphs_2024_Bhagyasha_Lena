@@ -52,6 +52,8 @@ The user-password.py should look like this:
 ('username', 'password')  # Replace with your actual credentials
 ```
 
+Run the file mapping-import-wikibase.py
+
 Data Uploader Functions:
 - Defines a custom family RijksmuseumCloudFamily to specify the details of the Wikibase instance
 - Maps LIDO fields to Wikidata properties
