@@ -1,11 +1,12 @@
 # Project - Linked Open Data & Knowledge Graphs
 
-# Import of LIDO-Data from the Rijksmuseum into Wikidata Cloud
+## Import of LIDO-Data from the Rijksmuseum into Wikidata Cloud
 
 This project provides a Python script for uploading data from the Rijksmuseum's [LIDO (Lightweight Information Describing Objects)](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/) records to a Wikibase instance using the Pywikibot library.
 The goal of this project was to created Linked Open Data, that can be queried using SPARQL and displayed in a Knowledge Graph.
-The repository also includes tools for parsing LIDO XML data, filtering specific records, and converting them to JSON format.
+The repository also includes code for parsing LIDO XML data, filtering specific records, and converting them to JSON format.
 
+The result from our project can be found here:  [Rijksmuseum Photo Knowledge Graph]([https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/](https://photos-rijksmuseum.wikibase.cloud/wiki/Main_Page))
 
 ## Requirements
 
@@ -33,7 +34,7 @@ It includes functionalities for:
   Extracts simple records with title, creator, and date, saving the results into a JSON file with a specified record limit
 
 ### Creating a smaller Subset for Trials
-To work with less LIDO classes as well as with less collection records / JSON entities, there is an additional Python Script (subset.py), which extracts simpler records with only title, creator, and date
+To work with less LIDO classes as well as with less collection records / JSON entities, there is an additional Python Script (create-json-subset.py), which extracts simpler records with only title, creator, date and material/tecnique.
 It's saving the results into a JSON file with a specified record limit.
 
 ### Uploading to Wikibase Instance
@@ -41,12 +42,12 @@ Make sure to configure your Pywikibot settings to connect to the desired Wikibas
 
 The user-config.py file should follow this structure:
 ```
-family = 'rijksmuseumcloud'
+family = 'rijksmuseum-cloud'
 mylang = 'en'
-usernames['rijksmuseumcloud']['en'] = 'username'  # Replace with your username
+usernames['rijksmuseum-cloud']['en'] = 'username'  # Replace with your username
 password_file = "user-password.py"
 ```
-The file user-password.py should look like this:
+The user-password.py should look like this:
 ```
 ('username', 'password')  # Replace with your actual credentials
 ```
