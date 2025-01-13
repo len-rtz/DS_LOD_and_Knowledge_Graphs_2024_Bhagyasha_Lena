@@ -78,9 +78,9 @@
 - Try to import the photos
 
 ## 8. References
-- [Wikibase](https://www.mediawiki.org/wiki/Wikibase)
+- [Wikibase Documentation](https://www.mediawiki.org/wiki/Wikibase)
 - [Pywikibot Manual](https://www.mediawiki.org/wiki/Manual:Pywikibot/)
-- [What is LIDO?](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/)
+- [ICOM International Committee for Documentation, What is LIDO?](https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/)
 
 ## 9. Questions?
 
