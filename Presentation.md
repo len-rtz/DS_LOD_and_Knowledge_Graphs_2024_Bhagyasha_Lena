@@ -1,12 +1,13 @@
 # Project Documentation: Rijksmuseum Photo Print Subset Analysis
+## Lena Pickartz & Bhagyasha Patil
 
 ## 1. Data Set
 
 ### Source
 - **Rijksmuseum Data Dumps**  
   [Historical Dumps](https://data.rijksmuseum.nl/docs/data-dumps/historical-dumps)
-
-(Information on Rijksmuseum)
+- The Rijksmuseum is the national museum of the Netherlands established in 1800 and is located in Amsterdam. It moves you through more than 8,000 works of Dutch art and history including masterpieces by Vermeer, Rembrandt, and Van Gogh.
+- The dataset utilized in this project is provided by the Rijksmuseum as part of their open data initiative.
 
 ### Dataset Information
 - **Full Dataset**: LIDO dataset (`202020-rma-lido-collection.zip`)  
@@ -23,10 +24,16 @@
     - Material  
 
 ## 2. LIDO (Lightweight Information Describing Objects)
-(what is it? WHo uses it? What are LIDO classes?; structure?; how is it viewed of linked open data?)
+- LIDO is an XML-based metadata schema designed for describing and sharing cultural heritage objects.
+- It is widely used by museums, galleries, and cultural institutions to standardize object metadata and facilitate interoperability across platforms like Europeana.
+- LIDO organizes data into structured classes, such as object identification, events, and relationships, enabling detailed documentation.
+- Its alignment with Linked Open Data principles enhances accessibility and connectivity, making cultural data globally discoverable and reusable.
 
 ## 3. Wikibase
-(creation of instance; what are properties?; prefers JSON?)
+ - Wikibase is an open-source platform for managing structured data, widely used for collaborative knowledge sharing (e.g., Wikidata).
+  - **Instance Creation**: Deploy on a server or use a cloud solution; configure structure and import data.
+  - **Properties**: Define attributes and relationships between entities (e.g., "creator," "inception date").
+  - **JSON** : Native format for data storage, API interactions, and import/export, ensuring compatibility with Linked Open Data standards.
 
 ## 4. Tools and Technologies
 
@@ -34,11 +41,31 @@
 - The XML data from the LIDO dataset was **converted to JSON** for easier and more flexible processing in subsequent steps.
 
 ### Data Integration
-- **Wikicloud**  
+- **Wikibase cloud**  
 - **Wikidata**  
 - **Pywikibot**
 
-## 5. Questions?
+## 5. Workflow Overview
+- Data Extraction
+- Data Transformation
+- Metadata Mapping
+- Data Integration
+
+## 6. Challenges
+ - Large data size
+ - Highly nested data structure
+ - 
+
+## 7. Future Work
+- Expanding the subset
+- Trying to get the photos
+- 
+
+## 8. References
+
+
+
+## 9. Questions?
 
 ### Questions from Our End
 
