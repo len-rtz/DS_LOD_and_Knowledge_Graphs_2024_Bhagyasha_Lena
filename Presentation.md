@@ -1,5 +1,8 @@
 # Project Documentation: Rijksmuseum Photo Print Subset Analysis
 ## Lena Pickartz & Bhagyasha Patil
+![IMG 1](Rijksmuseum_Amsterdam.jpg)
+
+
 
 ## 1. Data Set
 
