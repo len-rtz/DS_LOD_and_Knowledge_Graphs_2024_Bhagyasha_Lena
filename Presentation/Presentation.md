@@ -31,6 +31,8 @@
       - Material
 
 ## 2. LIDO (Lightweight Information Describing Objects)
+![IMG 3](lido_figure_nesting.png) 
+https://lido-schema.org/documents/primer/latest/lido-primer.html 
 - LIDO is an XML-based metadata schema designed for describing and sharing cultural heritage objects
 - It is widely used by museums, galleries, and cultural institutions to standardize object metadata and facilitate interoperability across platforms like Europeana
 - LIDO organizes data into structured classes, such as object identification, events, and relationships, enabling detailed documentation
