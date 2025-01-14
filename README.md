@@ -70,4 +70,4 @@ Functions:
 - "process_record(record, repo)" Handles a single LIDO record to create or update a corresponding Wikibase item
 - "main()": Initializes the execution of the script
 
-### Feel free to modify any section or detail further based on your preferences or specific project requirements!
+
