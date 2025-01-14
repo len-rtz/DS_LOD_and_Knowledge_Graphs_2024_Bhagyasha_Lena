@@ -6,7 +6,7 @@ This project provides a Python script for uploading data from the Rijksmuseum's 
 The goal of this project was to created Linked Open Data, that can be queried using SPARQL and displayed in a Knowledge Graph.
 The repository also includes code for parsing LIDO XML data, filtering specific records, and converting them to JSON format.
 
-The result from our project can be found here:  [Rijksmuseum Photo Knowledge Graph]([https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/about-lido/what-is-lido/](https://photos-rijksmuseum.wikibase.cloud/wiki/Main_Page))
+The result from our project can be found here:  [Rijksmuseum Photo Knowledge Graph](https://photos-rijksmuseum.wikibase.cloud/))
 
 ## Requirements
 
